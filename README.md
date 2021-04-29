@@ -16,13 +16,13 @@ You'll see my (michapuza) incremental changes appear here as I make subtle chang
 * Text Editor: neovim/vim
 * File Manager: Thunar
 * Menus: Rofi
-* Web Browser: Firefox
+* Web Browser: ~~Firefox~~ Chrome (sorry, i know it's a crime. arrest me.)
 * WM/DE: BSPWM
 * GTK Theme: Custom
 
 
 # Dependencies
 ```
-sudo pacman -S rofi picom firefox thunar mpd bspwm sxhkd ncmpcpp kitty fish neovim
-yay -S betterdiscordctl-git cava polybar nerd-fonts-complete ttf-roboto
+sudo pacman -S rofi picom thunar mpd bspwm sxhkd ncmpcpp kitty fish neovim
+yay -S betterdiscordctl-git cava polybar nerd-fonts-complete ttf-roboto google-chrome
 ```
