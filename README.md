@@ -26,3 +26,4 @@ You'll see my (michapuza) incremental changes appear here as I make subtle chang
 sudo pacman -S rofi picom thunar mpd bspwm sxhkd ncmpcpp kitty fish neovim
 yay -S betterdiscordctl-git cava polybar nerd-fonts-complete ttf-roboto google-chrome
 ```
+Also requires JetBrains Mono fontpack for Kitty: https://www.jetbrains.com/lp/mono/
