@@ -1,9 +1,11 @@
-# arch-monochrome
-My monochromatic rice for BSPWM on arch linux, complete with: Custom GTK theme, modified polybar-2 by @adi1090x (soon to be replaced with EWW (Elkowar's Wacky Widgets)) and a sexy sexy colourscheme.
+# arch-monochrome (in the style of michapuza)
 
-# IF YOU ARE GOING TO REUPLOAD THIS PLEASE GIVE ME VISIBLE CREDIT.
+"My monochromatic rice for BSPWM on arch linux, complete with: Custom GTK theme, modified polybar-2 by @adi1090x (soon to be replaced with EWW (Elkowar's Wacky Widgets)) and a sexy sexy colourscheme." (-caffeine01).
 
-# Preview
+You'll see my (michapuza) incremental changes appear here as I make subtle changes to fit my preferences and workflow. This project is incredible to begin with, now I'm just making it "more me."
+
+
+# Preview (in the style of caffeine01)
 ![alt text](https://host.juicehq.xyz/uploads/b4fa1db0-5e4d-4990-a945-3d3e58e43468/wKrPCcs5.png)
 ![alt text](https://raw.githubusercontent.com/Juicyexe/arch-monochrome/main/img/fuckingfinally.png?raw=true)
 
@@ -17,7 +19,6 @@ My monochromatic rice for BSPWM on arch linux, complete with: Custom GTK theme, 
 * Web Browser: Firefox
 * WM/DE: BSPWM
 * GTK Theme: Custom
-
 
 
 # Dependencies
